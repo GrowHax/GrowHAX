@@ -1,3 +1,3 @@
 ![](https://komarev.com/ghpvc/?username=GrowHax&style=flat-square)
 
-https://github.com/:user/:repo
+https://github.com/:GrowHax/:GrowPai
