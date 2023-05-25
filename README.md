@@ -2,4 +2,4 @@
 
 <a href="#" class="button">Growtopia V4.19</a>
 
-[watch this repo](https://github.com/user/repository/subscription)
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
