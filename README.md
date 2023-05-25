@@ -2,6 +2,9 @@
 
 <a href="#" class="button">Growtopia V4.19</a>
 
-style=social)(https://github.com/Growhax/GrowPai)
+<div align="center">
 
+
+
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://growhax.github.io/GrowPai/)
 
