@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=GrowHax&style=flat-square)
 
-<a href="#" <div align="center"> class="button">Growtopia V4.19</a>
+<a href="#" div align="center" class="button">Growtopia V4.19</a>
 
 <div align="center">
 
