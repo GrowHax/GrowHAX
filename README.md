@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?GrowHax&color=red)
+![](https://komarev.com/ghpvc/GrowHax&style=flat-square)
