@@ -5,4 +5,4 @@
 Released under [CC0-1.0](/LICENSE) by [@Growhax]([[https://github.com/Growhax](https://github.com/GrowHax/GrowPai/blob/main/LICENSE)](https://github.com/GrowHax)).
 
 
-([[https://growhax.github.io/GrowHAXenc])
+https://growhax.github.io/GrowHAXenc <-- For Lua script Decryption
