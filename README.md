@@ -5,4 +5,4 @@
 Released under [CC0-1.0](/LICENSE) by [@Growhax]([[https://github.com/Growhax](https://github.com/GrowHax/GrowPai/blob/main/LICENSE)](https://github.com/GrowHax)).
 
 
-growhax.github.io/EncLua/ <-- For Lua script obfuscator (still in beta)
+[growhax.github.io/EncLua/](https://growhax.github.io/EncLua) <-- For Lua script obfuscator (still in beta)
