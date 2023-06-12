@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=GrowHax&style=flat-square)
 
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://growhax.github.io/)
+[![View site - GH Pages](https://img.shields.io/badge/-Documentations%20for%20GrowPai-green)](https://growhax.github.io/)
 
 Released under [CC0-1.0](/LICENSE) by [@GrowHAX]([[https://github.com/Growhax](https://github.com/GrowHax/GrowPai/blob/main/LICENSE)](https://github.com/GrowHax)).
 
