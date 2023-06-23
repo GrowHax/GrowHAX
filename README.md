@@ -5,5 +5,5 @@ Released under [CC0-1.0](/LICENSE) by [@GrowHAX]([[https://github.com/Growhax](h
 
 [growhax.github.io/EncLua](https://growhax.github.io/EncLua) <-- For Lua script obfuscator (still in beta)
 
-[Discord Server](https://discord.gg/SES9tgHEHE)
+# [Discord Server](https://discord.gg/SES9tgHEHE)
 
